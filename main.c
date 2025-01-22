@@ -5,6 +5,7 @@
 int main() {
 
     hello();
+    bonjour();
 
     return 0;
 }
