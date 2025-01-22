@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include "hello.h"
 
 int main() {
 
-    printf("Hello, ACE lab!\n");
+    hello();
 
     return 0;
 }
