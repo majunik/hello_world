@@ -2,6 +2,7 @@ add_excutable(
     main.exe
     main.c
     src/hello.c
+    src/bonjour.c
 )
 
 target_include_directories(
