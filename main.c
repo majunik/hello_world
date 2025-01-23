@@ -6,9 +6,7 @@ int main() {
 
     hello();
     bonjour();
-    printf("hello, jihun\n");
 
-    printf("Hello jihun\n");
 
     return 0;
 }
