@@ -1,4 +1,4 @@
-add_excutable(
+add_executable(
     main.exe
     main.c
     src/hello.c
