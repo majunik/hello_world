@@ -7,7 +7,6 @@ int main() {
     hello();
     bonjour();
 
-    printf("test\n");
-
+    printf("hello jihun\n");
     return 0;
 }
