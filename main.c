@@ -7,6 +7,7 @@ int main() {
     hello();
     bonjour();
 
+    printf("test\n");
 
     return 0;
 }
