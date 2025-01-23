@@ -7,6 +7,7 @@ int main() {
     hello();
     bonjour();
 
+    printf("Hello junik\n");
 
     return 0;
 }
