@@ -7,5 +7,7 @@ int main() {
     hello();
     bonjour();
 
+    printf("Hello jihun\n");
+
     return 0;
 }
